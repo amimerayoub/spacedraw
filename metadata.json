@@ -1,0 +1,6 @@
+{
+  "name": "SpaceDraw",
+  "description": "SpaceDraw - Premium Monochrome Drawing and Guessing Game",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

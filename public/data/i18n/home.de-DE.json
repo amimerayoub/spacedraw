@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "locale": "de-DE",
+  "reviewStatus": "draft",
+  "dir": "ltr",
+  "nav": {
+    "play": "Jetzt spielen",
+    "howToPlay": "So funktioniert es",
+    "wordLists": "Wortlisten",
+    "practice": "Üben"
+  },
+  "hero": {
+    "eyebrow": "Kostenloses Zeichenspiel im Browser",
+    "ctaPrimary": "Jetzt spielen",
+    "ctaSecondary": "So funktioniert es",
+    "note": "Läuft direkt in deinem Browser — ohne Download und ohne Anmeldung.",
+    "intro": "SpaceDraw ist ein Zeichnen-und-Raten-Spiel online, das direkt in deinem Browser läuft. Zeichne das geheime Wort, bevor die Zeit abläuft, oder errate die Skizze so schnell wie möglich — ohne Download und ohne Anmeldung."
+  },
+  "trust": [
+    "Ohne Download",
+    "Ohne Anmeldung",
+    "Mobil & Desktop",
+    "Familienfreundliche Wortlisten"
+  ],
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Avatar wählen",
+        "body": "Wähle einen von 10 eigenen Avataren und einen Namen. Es wird nichts auf einem Server gespeichert."
+      },
+      {
+        "title": "Geheimes Wort erhalten",
+        "body": "Der Zeichner erhält drei Wort-Vorschläge aus einer Kategorie und einem Schwierigkeitsgrad."
+      },
+      {
+        "title": "Zeichnen oder raten",
+        "body": "Zeichne das Wort, bevor die Zeit abläuft, oder tippe deine Rateversuche in den Chat, um Schnelligkeitspunkte zu sammeln."
+      }
+    ]
+  },
+  "features": {
+    "cards": [
+      {
+        "title": "Solo-Übungsmodus",
+        "body": "Wärme dich gegen simulierte Mitspieler auf, ohne auf eine volle Lobby zu warten."
+      },
+      {
+        "title": "Private Räume mit Code",
+        "body": "Erstelle einen Raum und teile seinen Code. Heute füllen simulierte Spieler die Lobby; echtes Mehrspieler folgt später."
+      },
+      {
+        "title": "Rundeneinstellungen",
+        "body": "Passe Timer, Rundenanzahl und Wort-Schwierigkeit an deine Gruppe an."
+      },
+      {
+        "title": "Wortlisten nach Schwierigkeit",
+        "body": "Durchsuche Wortlisten nach Kategorie und Niveau (Leicht, Mittel, Schwer)."
+      }
+    ]
+  },
+  "practice": {
+    "cta": "Übungsmodus starten"
+  },
+  "rooms": {
+    "cta": "Raum erstellen",
+    "body": "Lege einen Raumcode fest, wähle deine Regeln und zeichne los. Räume laufen vorerst mit simulierten Spielern — Echtzeit-Mehrspieler ist ein zukünftiges Update."
+  },
+  "mobile": {
+    "body": "Eine touch-fähige Zeichenfläche läuft flüssig auf Handy, Tablet und Desktop — spiele überall ohne App-Installation."
+  },
+  "words": {
+    "note": "Die Demo-Wortlisten sind derzeit auf Englisch; lokalisierte Listen folgen.",
+    "categories": [
+      {
+        "name": "Tiere",
+        "sampleWords": [
+          "Katze",
+          "Elefant",
+          "Schmetterling"
+        ]
+      },
+      {
+        "name": "Essen",
+        "sampleWords": [
+          "Pizza",
+          "Eis",
+          "Banane"
+        ]
+      },
+      {
+        "name": "Gegenstände",
+        "sampleWords": [
+          "Fahrrad",
+          "Regenschirm",
+          "Kamera"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "note": "Schnelle Antworten auf die häufigsten Fragen."
+  },
+  "footer": {
+    "tagline": "Ein kostenloses Zeichnen-und-Raten-Spiel, das in deinem Browser läuft.",
+    "legal": "© 2026 SpaceDraw. Alle Rechte vorbehalten.",
+    "languageNote": "Diese Seite ist in mehreren Sprachen verfügbar. Suchmaschinen zeigen die zu deiner Region passende Version."
+  },
+  "a11y": {
+    "skipToContent": "Zum Inhalt springen",
+    "drawingCanvasAlt": "Vorschau der SpaceDraw-Zeichenfläche",
+    "openMenu": "Menü öffnen",
+    "playLink": "Das SpaceDraw-Zeichenspiel spielen"
+  }
+}

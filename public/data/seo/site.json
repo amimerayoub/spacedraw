@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "siteName": "SpaceDraw",
+  "siteUrl": "https://example.com",
+  "siteUrlIsPlaceholder": true,
+  "defaultLocale": "en-US",
+  "xDefaultLocale": "en-US",
+  "realMultiplayer": false,
+  "ogImage": "/assets/og/og-default.png",
+  "twitterHandle": "@spacedraw",
+  "organization": {
+    "name": "SpaceDraw",
+    "url": "https://example.com",
+    "logo": "/assets/og/og-default.png"
+  },
+  "notes": "siteUrl is a placeholder. The admin Export module must block downloads until a real production URL is set here."
+}

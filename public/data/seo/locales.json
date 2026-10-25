@@ -1,0 +1,1065 @@
+{
+  "locales": [
+    {
+      "locale": "en-US",
+      "hreflang": "en-US",
+      "htmlLang": "en-US",
+      "ogLocale": "en_US",
+      "dir": "ltr",
+      "path": "/en-us/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "draw and guess game online",
+      "secondary_keywords": [
+        "online drawing guessing game free",
+        "draw and guess game no download",
+        "online drawing game with room code",
+        "solo draw and guess game online",
+        "online drawing game no sign up"
+      ],
+      "long_tail": [
+        "free browser drawing and guessing party game",
+        "practice drawing game online with simulated players",
+        "hard words to draw in guessing games",
+        "funny drawing game word list by difficulty",
+        "classroom safe drawing guessing game online"
+      ],
+      "questions": [
+        "How do you play the SpaceDraw draw and guess game?",
+        "Do I need to download an app or create an account?",
+        "Can I practice playing draw and guess solo?",
+        "Does SpaceDraw work on mobile phones and tablets?",
+        "What word categories and difficulty levels are available?"
+      ],
+      "title": "Draw and Guess Game Online – Free Browser Play | SpaceDraw",
+      "meta_description": "Play SpaceDraw, the sleek free draw and guess game in your browser. Practice solo, explore word categories, or create a room. No download or sign-up!",
+      "h1": "Free Online Draw and Guess Game in Your Browser",
+      "h2": [
+        "How SpaceDraw Works",
+        "Play Practice Mode with Simulated Challengers",
+        "Custom Private Rooms & Settings",
+        "Curated Word Categories & Difficulty Levels",
+        "Why Play on Mobile & Desktop Without Downloads",
+        "Frequently Asked Questions"
+      ],
+      "faq": [
+        {
+          "q": "How do you play the SpaceDraw draw and guess game?",
+          "a": "Pick one of 10 original avatars, select a word category and difficulty level, and either sketch the secret word before the timer ends or type your guesses in the chat to earn speed points."
+        },
+        {
+          "q": "Do I need to download an app or create an account?",
+          "a": "No. SpaceDraw runs directly in your desktop or mobile browser with zero downloads and no sign-up required."
+        },
+        {
+          "q": "Can I practice playing solo?",
+          "a": "Yes! You can jump straight into Practice Mode or play quick rounds with simulated challengers anytime."
+        },
+        {
+          "q": "Does SpaceDraw work on phones and tablets?",
+          "a": "Yes, our responsive black-and-white glass interface supports touch drawing on iOS and Android browsers as well as desktop mice."
+        },
+        {
+          "q": "What word categories and difficulty levels are available?",
+          "a": "SpaceDraw includes curated word packs split into Easy, Medium, and Hard difficulty levels so every round stays fresh."
+        }
+      ],
+      "imageAlt": "SpaceDraw black-and-white glass drawing canvas showing a player sketching a bicycle with a countdown timer and chat guesses",
+      "internalAnchors": [
+        "learn how to play draw and guess",
+        "browse drawing game word lists",
+        "launch solo drawing practice mode"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "draw and guess game online",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "online drawing guessing game free",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "drawing game with friends online",
+          "intent": "transactional",
+          "volume_band": "10k-100k",
+          "difficulty": "high",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "draw and guess game no download",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "online drawing game with room code",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "solo draw and guess game online",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "low",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "hard words to draw in guessing games",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "funny drawing game word list",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "online drawing game no sign up",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "how to play draw and guess online",
+          "intent": "informational",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    },
+    {
+      "locale": "en-GB",
+      "hreflang": "en-GB",
+      "htmlLang": "en-GB",
+      "ogLocale": "en_GB",
+      "dir": "ltr",
+      "path": "/en-gb/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "draw and guess game online",
+      "secondary_keywords": [
+        "online drawing guessing game uk",
+        "free browser drawing game no download",
+        "drawing quiz game online free",
+        "practise drawing game online",
+        "drawing game with room code"
+      ],
+      "long_tail": [
+        "online drawing party game no sign up uk",
+        "word list for drawing guessing games",
+        "hard words to draw for adults clean",
+        "quick draw and guess game solo in browser",
+        "classroom drawing guessing game uk"
+      ],
+      "questions": [
+        "How do you play the SpaceDraw draw and guess game?",
+        "Is SpaceDraw completely free with no sign-up?",
+        "Can I practise drawing and guessing on my own?",
+        "Does the game work on mobile browsers?",
+        "Can I customise the difficulty of the words?"
+      ],
+      "title": "Draw & Guess Game Online – Free UK Browser Play | SpaceDraw",
+      "meta_description": "Play SpaceDraw, the free draw and guess game in your browser. Practise solo with simulated players or test our word lists. No download or sign-up needed!",
+      "h1": "Free Online Draw and Guess Game – No Download Required",
+      "h2": [
+        "How the Drawing & Guessing Rounds Work",
+        "Practise Solo Against Simulated Players",
+        "Private Room Codes & Custom Timers",
+        "Word Categories & Difficulty Levels",
+        "Designed for Mobile, Tablet & Desktop Browsers",
+        "Frequently Asked Questions"
+      ],
+      "faq": [
+        {
+          "q": "How do you play the SpaceDraw draw and guess game?",
+          "a": "Choose an avatar, pick a word category, and take turns sketching the secret prompt or guessing in the chat before the timer runs out."
+        },
+        {
+          "q": "Is SpaceDraw completely free with no sign-up?",
+          "a": "Yes. You can play immediately in your web browser without creating an account or downloading any software."
+        },
+        {
+          "q": "Can I practise drawing and guessing on my own?",
+          "a": "Yes, our Practice Mode and simulated players let you enjoy quick rounds solo whenever you like."
+        },
+        {
+          "q": "Does the game work on mobile browsers?",
+          "a": "Absolutely. SpaceDraw is built for smooth touch sketching on mobile phones and tablets as well as desktop computers."
+        },
+        {
+          "q": "Can I customise the difficulty of the words?",
+          "a": "Yes, you can select Easy, Medium, or Hard word packs across multiple themed categories."
+        }
+      ],
+      "imageAlt": "SpaceDraw monochrome glass interface showing a quick sketch round and live chat guessing on a mobile browser",
+      "internalAnchors": [
+        "read the full game rules",
+        "explore drawing game word lists",
+        "practise in solo mode"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "draw and guess game online",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "online drawing guessing game uk",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "low",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "free browser drawing game no download",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "drawing quiz game online free",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "low",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "draw and guess game for video calls",
+          "intent": "commercial",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "practise drawing game online",
+          "intent": "transactional",
+          "volume_band": "<100",
+          "difficulty": "low",
+          "confidence": "low",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "word list for drawing guessing games",
+          "intent": "informational",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    },
+    {
+      "locale": "fr-FR",
+      "hreflang": "fr",
+      "htmlLang": "fr",
+      "ogLocale": "fr_FR",
+      "dir": "ltr",
+      "path": "/fr/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "jeu dessiner et deviner en ligne",
+      "secondary_keywords": [
+        "jeu de dessin et devinette gratuit",
+        "dessine et devine en ligne sans inscription",
+        "jeu pour dessiner et faire deviner des mots",
+        "jeu de dessin en ligne sans téléchargement",
+        "jeu de devinette dessin solo"
+      ],
+      "long_tail": [
+        "liste de mots à faire deviner en dessinant",
+        "idées de mots difficiles à dessiner jeu",
+        "jeu de dessin avec code de salon privé",
+        "comment jouer à dessiner et deviner en ligne",
+        "jeu de dessin rapide sur téléphone sans application"
+      ],
+      "questions": [
+        "Comment jouer à SpaceDraw en ligne ?",
+        "Faut-il créer un compte ou télécharger une application ?",
+        "Peut-on jouer seul pour s'entraîner ?",
+        "Le jeu fonctionne-t-il sur téléphone et tablette ?",
+        "Quels types de mots et niveaux de difficulté sont proposés ?"
+      ],
+      "title": "Jeu Dessiner et Deviner en Ligne Gratuit | SpaceDraw",
+      "meta_description": "Jouez à SpaceDraw, le jeu pour dessiner et deviner des mots dans votre navigateur. Mode entraînement, listes de mots, sans téléchargement ni inscription.",
+      "h1": "Jeu pour Dessiner et Deviner des Mots en Ligne Gratuitement",
+      "h2": [
+        "Comment fonctionne une manche sur SpaceDraw ?",
+        "Mode Entraînement et Joueurs Simulés",
+        "Salons avec Code et Paramètres Personnalisés",
+        "Catégories de Mots et Niveaux de Difficulté",
+        "Jouez sur Mobile et PC sans Téléchargement",
+        "Questions Fréquentes (FAQ)"
+      ],
+      "faq": [
+        {
+          "q": "Comment jouer à SpaceDraw en ligne ?",
+          "a": "Choisissez un avatar, sélectionnez une catégorie de mots, puis dessinez le mot secret ou devinez le croquis dans le chat le plus vite possible pour gagner des points."
+        },
+        {
+          "q": "Faut-il créer un compte ou télécharger une application ?",
+          "a": "Non, SpaceDraw se joue directement dans votre navigateur web, gratuitement, sans inscription et sans téléchargement."
+        },
+        {
+          "q": "Peut-on jouer seul pour s'entraîner ?",
+          "a": "Oui ! Le mode Entraînement et les parties avec joueurs simulés vous permettent de jouer immédiatement à tout moment."
+        },
+        {
+          "q": "Le jeu fonctionne-t-il sur téléphone et tablette ?",
+          "a": "Oui, la toile de dessin tactile est optimisée pour les navigateurs mobiles (iOS et Android) ainsi que pour les ordinateurs."
+        },
+        {
+          "q": "Quels types de mots et niveaux de difficulté sont proposés ?",
+          "a": "Vous pouvez choisir parmi plusieurs thèmes et trois niveaux de difficulté : facile, moyen et difficile."
+        }
+      ],
+      "imageAlt": "Interface monochrome de SpaceDraw montrant un dessin en cours et le chat de devinettes sur navigateur",
+      "internalAnchors": [
+        "comment jouer à dessiner et deviner",
+        "liste de mots à dessiner par niveau",
+        "lancer le mode entraînement"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "jeu dessiner et deviner en ligne",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "jeu de dessin et devinette gratuit",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "dessine et devine en ligne sans inscription",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "jeu de dessin entre amis en ligne",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "liste de mots à faire deviner en dessinant",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "idées de mots difficiles à dessiner",
+          "intent": "informational",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    },
+    {
+      "locale": "es-ES",
+      "hreflang": "es",
+      "htmlLang": "es",
+      "ogLocale": "es_ES",
+      "dir": "ltr",
+      "path": "/es/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "juego de dibujar y adivinar online",
+      "secondary_keywords": [
+        "juego de dibujar y adivinar gratis",
+        "dibuja y adivina online sin descargar",
+        "juego de adivinar dibujos en el navegador",
+        "juego de dibujar y adivinar sin registrarse",
+        "practicar dibujo rápido juego online"
+      ],
+      "long_tail": [
+        "palabras para dibujar y adivinar en juegos",
+        "palabras difíciles para dibujar y adivinar",
+        "juego de dibujar con código de sala privada",
+        "juego de dibujar y adivinar para móvil y celular",
+        "cómo jugar a dibujar y adivinar palabras online"
+      ],
+      "questions": [
+        "¿Cómo se juega a SpaceDraw?",
+        "¿Necesito descargar una app o registrarme?",
+        "¿Puedo jugar en modo práctica de un jugador?",
+        "¿Funciona en el navegador del móvil o celular?",
+        "¿Qué categorías de palabras y dificultades incluye?"
+      ],
+      "title": "Juego de Dibujar y Adivinar Online Gratis | SpaceDraw",
+      "meta_description": "Juega a SpaceDraw, el juego de dibujar y adivinar palabras gratis en tu navegador. Modo práctica, listas de palabras, sin descargar ni crear cuenta.",
+      "h1": "Juego de Dibujar y Adivinar Palabras Online Gratis",
+      "h2": [
+        "¿Cómo funciona SpaceDraw?",
+        "Modo Práctica y Partidas con Jugadores Simulados",
+        "Salas con Código y Ajustes de Ronda",
+        "Categorías de Palabras y Niveles de Dificultad",
+        "Juega en Móvil, Celular o PC sin Descargas",
+        "Preguntas Frecuentes"
+      ],
+      "faq": [
+        {
+          "q": "¿Cómo se juega a SpaceDraw?",
+          "a": "Elige uno de los 10 avatares, selecciona una categoría de palabras y dibuja la palabra secreta o adivina en el chat antes de que termine el tiempo para ganar puntos por velocidad."
+        },
+        {
+          "q": "¿Necesito descargar una app o registrarme?",
+          "a": "No. SpaceDraw funciona directamente en tu navegador web sin descargas y sin necesidad de crear una cuenta."
+        },
+        {
+          "q": "¿Puedo jugar en modo práctica de un jugador?",
+          "a": "¡Sí! Puedes entrar al Modo Práctica o jugar rondas rápidas con jugadores simulados en cualquier momento."
+        },
+        {
+          "q": "¿Funciona en el navegador del móvil o celular?",
+          "a": "Sí, el lienzo táctil está optimizado para navegadores en teléfonos móviles, tablets y computadoras."
+        },
+        {
+          "q": "¿Qué categorías de palabras y dificultades incluye?",
+          "a": "Contamos con múltiples categorías temáticas divididas en niveles fácil, medio y difícil."
+        }
+      ],
+      "imageAlt": "Pantalla de juego de SpaceDraw en blanco y negro donde se dibuja una palabra secreta con temporizador",
+      "internalAnchors": [
+        "cómo jugar a dibujar y adivinar",
+        "lista de palabras para dibujar",
+        "modo práctica de dibujo"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "juego de dibujar y adivinar online",
+          "intent": "transactional",
+          "volume_band": "10k-100k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "juego de dibujar y adivinar gratis",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "dibuja y adivina online sin descargar",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "juego de dibujar con amigos online",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "palabras para dibujar y adivinar",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "palabras difíciles para dibujar en juegos",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    },
+    {
+      "locale": "de-DE",
+      "hreflang": "de",
+      "htmlLang": "de",
+      "ogLocale": "de_DE",
+      "dir": "ltr",
+      "path": "/de/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "zeichnen und raten spiel online",
+      "secondary_keywords": [
+        "malen und raten online kostenlos",
+        "zeichenspiel online ohne anmeldung",
+        "zeichen-ratespiel im browser",
+        "zeichenspiel online kostenlos ohne download",
+        "zeichenspiel alleine üben online"
+      ],
+      "long_tail": [
+        "begriffe für zeichenspiele liste nach schwierigkeit",
+        "schwere wörter zum zeichnen und raten",
+        "zeichenspiel mit raumcode im browser",
+        "zeichen-ratespiel für schule und unterricht",
+        "lustige begriffe zum malen und raten"
+      ],
+      "questions": [
+        "Wie funktioniert das Zeichnen-und-Raten-Spiel SpaceDraw?",
+        "Muss ich ein Konto erstellen oder eine App herunterladen?",
+        "Kann ich auch alleine im Übungsmodus spielen?",
+        "Funktioniert SpaceDraw auf dem Handy und Tablet?",
+        "Welche Wortkategorien und Schwierigkeitsgrade gibt es?"
+      ],
+      "title": "Zeichnen & Raten Spiel Online – Kostenlos | SpaceDraw",
+      "meta_description": "Spiele SpaceDraw kostenlos im Browser! Das schnelle Zeichnen-und-Raten-Spiel mit Übungsmodus, Wortlisten und Raumcode – ohne Download & ohne Anmeldung.",
+      "h1": "Zeichnen und Raten Online – Das Kostenlose Browser-Zeichenspiel",
+      "h2": [
+        "So funktioniert das Zeichen-Ratespiel",
+        "Übungsmodus & Runden mit Simulierten Spielern",
+        "Private Räume mit Raumcode & Eigenen Regeln",
+        "Wortkategorien & Schwierigkeitsgrade",
+        "Direkt im Browser auf Handy & PC spielen",
+        "Häufig gestellte Fragen (FAQ)"
+      ],
+      "faq": [
+        {
+          "q": "Wie funktioniert das Zeichnen-und-Raten-Spiel SpaceDraw?",
+          "a": "Wähle einen Avatar und eine Kategorie: Ein Spieler zeichnet das geheime Wort auf der Leinwand, während im Chat auf Zeit geraten wird – je schneller, desto mehr Punkte."
+        },
+        {
+          "q": "Muss ich ein Konto erstellen oder eine App herunterladen?",
+          "a": "Nein. SpaceDraw läuft komplett kostenlos direkt im Browser, ohne Download und ohne Registrierung."
+        },
+        {
+          "q": "Kann ich auch alleine im Übungsmodus spielen?",
+          "a": "Ja! Im Übungsmodus und in Runden mit simulierten Mitspielern kannst du jederzeit sofort loslegen."
+        },
+        {
+          "q": "Funktioniert SpaceDraw auf dem Handy und Tablet?",
+          "a": "Ja, die Oberfläche im edlen Schwarz-Weiß-Glasdesign ist für Touchscreens auf Smartphones und Tablets sowie für PC-Mäuse optimiert."
+        },
+        {
+          "q": "Welche Wortkategorien und Schwierigkeitsgrade gibt es?",
+          "a": "Es gibt zahlreiche Themenkategorien in den Stufen Leicht, Mittel und Schwer."
+        }
+      ],
+      "imageAlt": "SpaceDraw Zeichenfläche im Schwarz-Weiß-Glasdesign mit Countdown und Raterunde im Chat",
+      "internalAnchors": [
+        "Spielregeln für Zeichnen und Raten",
+        "Begriffe und Wortlisten zum Zeichnen",
+        "jetzt im Übungsmodus trainieren"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "zeichnen und raten spiel online",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "malen und raten online kostenlos",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "zeichenspiel online ohne anmeldung",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "zeichnen und raten mit freunden",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "begriffe für zeichenspiele liste",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "schwere wörter zum zeichnen und raten",
+          "intent": "informational",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    },
+    {
+      "locale": "ar",
+      "hreflang": "ar",
+      "htmlLang": "ar",
+      "ogLocale": "ar_AR",
+      "dir": "rtl",
+      "path": "/ar/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "لعبة ارسم وخمن اون لاين",
+      "secondary_keywords": [
+        "لعبة رسم وتخمين اون لاين",
+        "لعبة رسم وتخمين بدون تحميل",
+        "لعبة سكتش اون لاين",
+        "لعبة تخمين الرسمات اون لاين مجانا",
+        "تدريب رسم سريع اون لاين"
+      ],
+      "long_tail": [
+        "كلمات للعبة ارسم وخمن حسب الصعوبة",
+        "كلمات صعبة للرسم والتخمين",
+        "لعبة رسم وتخمين في المتصفح للجوال",
+        "لعبة رسم بغرفة خاصة وكود",
+        "كيف العب لعبة ارسم وخمن اون لاين"
+      ],
+      "questions": [
+        "كيف تلعب لعبة ارسم وخمن على SpaceDraw؟",
+        "هل أحتاج إلى تحميل تطبيق أو إنشاء حساب؟",
+        "هل يمكنني اللعب بمفردي في طور التدريب؟",
+        "هل تعمل اللعبة على الجوال والآيباد؟",
+        "ما هي تصنيفات الكلمات ومستويات الصعوبة المتوفرة؟"
+      ],
+      "title": "لعبة ارسم وخمن أونلاين مجاناً في المتصفح | SpaceDraw",
+      "meta_description": "العب SpaceDraw، لعبة رسم وتخمين الكلمات أونلاين مجاناً عبر المتصفح. طور التدريب الفردي، غرف بكود خاص، وقوائم كلمات بدون تحميل أو تسجيل حساب.",
+      "h1": "لعبة ارسم وخمن أونلاين مجاناً – بدون تحميل أو تسجيل",
+      "h2": [
+        "كيف تلعب لعبة الرسم والتخمين SpaceDraw؟",
+        "طور التدريب الفردي واللعب مع لاعبين افتراضيين",
+        "غرف خاصة بكود وإعدادات جولات مخصصة",
+        "تصنيفات الكلمات ومستويات الصعوبة",
+        "العب فوراً على الجوال والكمبيوتر عبر المتصفح",
+        "الأسئلة الشائعة"
+      ],
+      "faq": [
+        {
+          "q": "كيف تلعب لعبة ارسم وخمن على SpaceDraw؟",
+          "a": "اختر شخصيتك الرمزية وتصنيف الكلمات، ثم ارسم الكلمة السرية على اللوحة أو خمّن ما يرسمه الآخرون في الشات بسرعة لكسب النقاط."
+        },
+        {
+          "q": "هل أحتاج إلى تحميل تطبيق أو إنشاء حساب؟",
+          "a": "لا، تعمل اللعبة مباشرة ومجاناً داخل متصفح الإنترنت بدون أي تحميل وبدون تسجيل حساب."
+        },
+        {
+          "q": "هل يمكنني اللعب بمفردي في طور التدريب؟",
+          "a": "نعم! يمكنك الدخول إلى طور التدريب الفردي أو اللعب مع لاعبين افتراضيين في أي وقت."
+        },
+        {
+          "q": "هل تعمل اللعبة على الجوال والآيباد؟",
+          "a": "نعم، لوحة الرسم تدعم اللمس بالكامل على جميع الهواتف الذكية والأجهزة اللوحية بالإضافة إلى الكمبيوتر."
+        },
+        {
+          "q": "ما هي تصنيفات الكلمات ومستويات الصعوبة المتوفرة؟",
+          "a": "تتوفر مجموعة متنوعة من التصنيفات باللغة العربية مقسمة إلى ثلاث درجات صعوبة: سهل، متوسط، وصعب."
+        }
+      ],
+      "imageAlt": "واجهة لعبة SpaceDraw باللونين الأبيض والأسود تعرض لوحة رسم تفاعلية ومؤقت زمني مع شات التخمين",
+      "internalAnchors": [
+        "طريقة لعب ارسم وخمن",
+        "قائمة كلمات للرسم والتخمين",
+        "تجربة طور التدريب الفردي"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "لعبة ارسم وخمن اون لاين",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "لعبة رسم وتخمين اون لاين",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "لعبة رسم وتخمين بدون تحميل",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "لعبة ارسم وخمن مع الاصدقاء",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "كلمات للعبة ارسم وخمن",
+          "intent": "informational",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "لعبة سكتش اون لاين",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "hreflang": "pt-BR",
+      "htmlLang": "pt-BR",
+      "ogLocale": "pt_BR",
+      "dir": "ltr",
+      "path": "/pt-br/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "jogo de desenhar e adivinhar online",
+      "secondary_keywords": [
+        "jogo de desenhar e adivinhar grátis",
+        "desenhar e adivinhar online sem baixar",
+        "jogo de desenho e adivinhação no navegador",
+        "jogo de desenhar e adivinhar sem cadastro",
+        "jogo de desenhar rápido sozinho"
+      ],
+      "long_tail": [
+        "palavras para jogo de desenhar e adivinhar",
+        "palavras difíceis para desenhar em jogos",
+        "jogo de desenhar com código de sala privada",
+        "jogo de desenhar e adivinhar pelo celular no navegador",
+        "como jogar desenhar e adivinhar online grátis"
+      ],
+      "questions": [
+        "Como funciona o jogo SpaceDraw?",
+        "Preciso baixar aplicativo ou fazer cadastro?",
+        "Posso jogar sozinho no Modo Treino?",
+        "O jogo funciona no navegador do celular?",
+        "Quais categorias de palavras e dificuldades existem?"
+      ],
+      "title": "Jogo de Desenhar e Adivinhar Online Grátis | SpaceDraw",
+      "meta_description": "Jogue SpaceDraw grátis no navegador! Jogo de desenhar e adivinhar palavras com modo treino, listas de palavras e salas com código. Sem baixar nada.",
+      "h1": "Jogo de Desenhar e Adivinhar Palavras Online e Grátis",
+      "h2": [
+        "Como Funciona o SpaceDraw",
+        "Modo Treino e Partidas com Jogadores Simulados",
+        "Salas Privadas com Código e Ajustes Rápidos",
+        "Categorias de Palavras e Níveis de Dificuldade",
+        "Jogue no Celular ou PC Direto no Navegador",
+        "Perguntas Frequentes (FAQ)"
+      ],
+      "faq": [
+        {
+          "q": "Como funciona o jogo SpaceDraw?",
+          "a": "Escolha um dos 10 avatares e uma categoria: desenhe a palavra secreta na tela ou adivinhe no chat o mais rápido possível para ganhar pontos."
+        },
+        {
+          "q": "Preciso baixar aplicativo ou fazer cadastro?",
+          "a": "Não. O SpaceDraw roda direto no seu navegador de forma 100% gratuita, sem downloads e sem criar conta."
+        },
+        {
+          "q": "Posso jogar sozinho no Modo Treino?",
+          "a": "Sim! Você pode praticar no Modo Treino ou jogar rodadas rápidas com jogadores simulados a qualquer hora."
+        },
+        {
+          "q": "O jogo funciona no navegador do celular?",
+          "a": "Sim, a tela de desenho responde ao toque perfeitamente em celulares Android, iPhone, tablets e computadores."
+        },
+        {
+          "q": "Quais categorias de palavras e dificuldades existem?",
+          "a": "Há diversas categorias em português divididas nos níveis fácil, médio e difícil."
+        }
+      ],
+      "imageAlt": "Tela do jogo SpaceDraw em preto e branco mostrando um desenho sendo feito no navegador com chat de palpites",
+      "internalAnchors": [
+        "como jogar desenhar e adivinhar",
+        "lista de palavras para desenhar",
+        "treinar no modo prática"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "jogo de desenhar e adivinhar online",
+          "intent": "transactional",
+          "volume_band": "10k-100k",
+          "difficulty": "high",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "jogo de desenhar e adivinhar grátis",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "desenhar e adivinhar online sem baixar",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "jogo de desenhar com amigos online",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "high",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "palavras para jogo de desenhar e adivinhar",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "jogo de desenhar e adivinhar sem cadastro",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    },
+    {
+      "locale": "ru-RU",
+      "hreflang": "ru",
+      "htmlLang": "ru",
+      "ogLocale": "ru_RU",
+      "dir": "ltr",
+      "path": "/ru/",
+      "enabled": true,
+      "reviewStatus": "draft",
+      "primary_keyword": "игра рисовать и угадывать онлайн",
+      "secondary_keywords": [
+        "игра рисуй и угадывай бесплатно",
+        "крокодил онлайн рисовать в браузере",
+        "рисовать и угадывать слова без регистрации",
+        "игра угадай рисунок онлайн без скачивания",
+        "игра рисуй и угадывай для одного"
+      ],
+      "long_tail": [
+        "слова для игры рисуй и угадывай список",
+        "сложные слова для рисования в игре",
+        "игра с рисованием по коду комнаты",
+        "рисовать и угадывать на телефоне в браузере",
+        "как играть в рисуй и угадывай онлайн"
+      ],
+      "questions": [
+        "Как играть в SpaceDraw?",
+        "Нужно ли скачивать игру или регистрироваться?",
+        "Можно ли играть одному в режиме тренировки?",
+        "Работает ли игра на телефоне и планшете?",
+        "Какие категории слов и уровни сложности доступны?"
+      ],
+      "title": "Игра Рисуй и Угадывай Онлайн Бесплатно | SpaceDraw",
+      "meta_description": "Играйте в SpaceDraw — бесплатную браузерную игру «рисуй и угадывай» без скачивания. Режим тренировки, приватные комнаты по коду и списки слов по темам.",
+      "h1": "Бесплатная Онлайн-Игра «Рисуй и Угадывай» в Браузере",
+      "h2": [
+        "Как устроена игра SpaceDraw",
+        "Режим тренировки и раунды с ботами",
+        "Приватные комнаты по коду и настройки",
+        "Категории слов и уровни сложности",
+        "Играйте на телефоне и ПК без скачивания",
+        "Часто задаваемые вопросы (FAQ)"
+      ],
+      "faq": [
+        {
+          "q": "Как играть в SpaceDraw?",
+          "a": "Выберите аватар и категорию слов: рисуйте загаданное слово на холсте или угадывайте рисунки в чате на скорость, чтобы набрать максимум очков."
+        },
+        {
+          "q": "Нужно ли скачивать игру или регистрироваться?",
+          "a": "Нет. Игра запускается прямо в браузере бесплатно, без скачивания и без создания аккаунта."
+        },
+        {
+          "q": "Можно ли играть одному в режиме тренировки?",
+          "a": "Да! Вы можете в любой момент запустить режим тренировки или сыграть быструю партию с симулированными игроками."
+        },
+        {
+          "q": "Работает ли игра на телефоне и планшете?",
+          "a": "Да, минималистичный черно-белый интерфейс отлично работает на сенсорных экранах смартфонов и планшетов, а также на ПК."
+        },
+        {
+          "q": "Какие категории слов и уровни сложности доступны?",
+          "a": "Доступны тематические наборы слов на русском языке с тремя уровнями сложности: легкий, средний и сложный."
+        }
+      ],
+      "imageAlt": "Черно-белый интерфейс игры SpaceDraw с холстом для рисования, таймером и чатом для угадывания слов",
+      "internalAnchors": [
+        "как играть в рисуй и угадывай",
+        "список слов для рисования по темам",
+        "запустить режим тренировки"
+      ],
+      "keyword_data": [
+        {
+          "keyword": "игра рисовать и угадывать онлайн",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "игра рисуй и угадывай бесплатно",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "крокодил онлайн рисовать в браузере",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "игра рисовать с друзьями онлайн",
+          "intent": "transactional",
+          "volume_band": "1k-10k",
+          "difficulty": "medium",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": true
+        },
+        {
+          "keyword": "слова для игры рисуй и угадывай",
+          "intent": "informational",
+          "volume_band": "1k-10k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        },
+        {
+          "keyword": "рисовать и угадывать слова без регистрации",
+          "intent": "transactional",
+          "volume_band": "100-1k",
+          "difficulty": "low",
+          "confidence": "medium",
+          "source": "unverified estimate",
+          "future": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "locale": "fr-FR",
+  "reviewStatus": "draft",
+  "dir": "ltr",
+  "nav": {
+    "play": "Jouer",
+    "howToPlay": "Comment jouer",
+    "wordLists": "Listes de mots",
+    "practice": "S'entraîner"
+  },
+  "hero": {
+    "eyebrow": "Jeu de dessin gratuit dans le navigateur",
+    "ctaPrimary": "Jouer maintenant",
+    "ctaSecondary": "Comment jouer",
+    "note": "Le jeu fonctionne directement dans votre navigateur — sans téléchargement ni inscription.",
+    "intro": "SpaceDraw est un jeu dessiner et deviner en ligne gratuit qui fonctionne directement dans votre navigateur. Dessinez le mot secret avant la fin du chrono, ou devinez le croquis le plus vite possible — sans téléchargement ni inscription."
+  },
+  "trust": [
+    "Sans téléchargement",
+    "Sans inscription",
+    "Mobile et PC",
+    "Listes de mots familiales"
+  ],
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Choisissez un avatar",
+        "body": "Sélectionnez l'un des 10 avatars originaux et un pseudo. Rien n'est stocké sur un serveur."
+      },
+      {
+        "title": "Recevez votre mot secret",
+        "body": "Le dessinateur reçoit trois choix de mots selon une catégorie et un niveau de difficulté."
+      },
+      {
+        "title": "Dessinez ou devinez",
+        "body": "Dessinez le mot avant la fin du chrono, ou saisissez vos devinettes dans le chat pour marquer des points de rapidité."
+      }
+    ]
+  },
+  "features": {
+    "cards": [
+      {
+        "title": "Mode entraînement solo",
+        "body": "Échauffez-vous contre des joueurs simulés sans attendre qu'un salon se remplisse."
+      },
+      {
+        "title": "Salons privés avec code",
+        "body": "Créez un salon et partagez son code. Des joueurs simulés remplissent le salon pour l'instant ; le multijoueur en direct arrive plus tard."
+      },
+      {
+        "title": "Paramètres de manche",
+        "body": "Ajustez le chrono, le nombre de manches et la difficulté des mots selon votre groupe."
+      },
+      {
+        "title": "Listes de mots par difficulté",
+        "body": "Parcourez des listes de mots classées par thème et par niveau (facile, moyen, difficile)."
+      }
+    ]
+  },
+  "practice": {
+    "cta": "Lancer le mode entraînement"
+  },
+  "rooms": {
+    "cta": "Créer un salon",
+    "body": "Définissez un code de salon, choisissez vos règles et commencez à dessiner. Les salons fonctionnent avec des joueurs simulés pour l'instant — le multijoueur en temps réel est une mise à jour future."
+  },
+  "mobile": {
+    "body": "Un canvas tactile réactif fonctionne sur téléphone, tablette et ordinateur, pour jouer partout sans installer d'application."
+  },
+  "words": {
+    "note": "Les listes de mots de démonstration sont actuellement en anglais ; des listes localisées arrivent bientôt.",
+    "categories": [
+      {
+        "name": "Animaux",
+        "sampleWords": [
+          "chat",
+          "éléphant",
+          "papillon"
+        ]
+      },
+      {
+        "name": "Nourriture",
+        "sampleWords": [
+          "pizza",
+          "glace",
+          "banane"
+        ]
+      },
+      {
+        "name": "Objets",
+        "sampleWords": [
+          "vélo",
+          "parapluie",
+          "appareil photo"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "note": "Réponses rapides aux questions les plus fréquentes."
+  },
+  "footer": {
+    "tagline": "Un jeu pour dessiner et deviner gratuit, directement dans votre navigateur.",
+    "legal": "© 2026 SpaceDraw. Tous droits réservés.",
+    "languageNote": "Cette page est disponible en plusieurs langues. Les moteurs de recherche affichent la version adaptée à votre région."
+  },
+  "a11y": {
+    "skipToContent": "Aller au contenu",
+    "drawingCanvasAlt": "Aperçu du canvas de dessin SpaceDraw",
+    "openMenu": "Ouvrir le menu",
+    "playLink": "Jouer au jeu de dessin SpaceDraw"
+  }
+}

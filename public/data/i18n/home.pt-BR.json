@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "locale": "pt-BR",
+  "reviewStatus": "draft",
+  "dir": "ltr",
+  "nav": {
+    "play": "Jogar agora",
+    "howToPlay": "Como jogar",
+    "wordLists": "Listas de palavras",
+    "practice": "Treinar"
+  },
+  "hero": {
+    "eyebrow": "Jogo de desenho grátis no navegador",
+    "ctaPrimary": "Jogar agora",
+    "ctaSecondary": "Como jogar",
+    "note": "Funciona direto no seu navegador — sem baixar nem criar conta.",
+    "intro": "O SpaceDraw é um jogo de desenhar e adivinhar online grátis que roda direto no seu navegador. Desenhe a palavra secreta antes do tempo acabar, ou adivinhe o rabisco o mais rápido possível — sem baixar nem criar conta."
+  },
+  "trust": [
+    "Sem download",
+    "Sem cadastro",
+    "Celular e PC",
+    "Palavras para a família"
+  ],
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Escolha um avatar",
+        "body": "Selecione um dos 10 avatares originais e um nome. Nada é salvo em um servidor."
+      },
+      {
+        "title": "Receba sua palavra secreta",
+        "body": "Quem desenha recebe três palavras para escolher por categoria e nível de dificuldade."
+      },
+      {
+        "title": "Desenhe ou adivinhe",
+        "body": "Desenhe a palavra antes do tempo acabar, ou digite seus palpites no chat para ganhar pontos de velocidade."
+      }
+    ]
+  },
+  "features": {
+    "cards": [
+      {
+        "title": "Modo prática individual",
+        "body": "Aqueça contra jogadores simulados sem esperar uma sala encher."
+      },
+      {
+        "title": "Salas privadas com código",
+        "body": "Crie uma sala e compartilhe o código. Jogadores simulados preenchem a sala por enquanto; o multiplayer ao vivo chega depois."
+      },
+      {
+        "title": "Ajustes de rodada",
+        "body": "Ajuste o tempo, o número de rodadas e a dificuldade das palavras conforme o seu grupo."
+      },
+      {
+        "title": "Listas de palavras por dificuldade",
+        "body": "Explore listas de palavras por categoria e nível (fácil, médio, difícil)."
+      }
+    ]
+  },
+  "practice": {
+    "cta": "Iniciar modo prática"
+  },
+  "rooms": {
+    "cta": "Criar uma sala",
+    "body": "Defina um código de sala, escolha suas regras e comece a desenhar. As salas funcionam com jogadores simulados por enquanto — o multiplayer em tempo real é uma atualização futura."
+  },
+  "mobile": {
+    "body": "Uma tela de desenho que responde ao toque funciona bem em celular, tablet e computador, para jogar em qualquer lugar sem instalar um app."
+  },
+  "words": {
+    "note": "As listas de palavras de demonstração estão em inglês por enquanto; as versões localizadas chegam em breve.",
+    "categories": [
+      {
+        "name": "Animais",
+        "sampleWords": [
+          "gato",
+          "elefante",
+          "borboleta"
+        ]
+      },
+      {
+        "name": "Comida",
+        "sampleWords": [
+          "pizza",
+          "sorvete",
+          "banana"
+        ]
+      },
+      {
+        "name": "Objetos",
+        "sampleWords": [
+          "bicicleta",
+          "guarda-chuva",
+          "câmera"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "note": "Respostas rápidas para as perguntas mais comuns."
+  },
+  "footer": {
+    "tagline": "Um jogo de desenhar e adivinhar grátis que roda no seu navegador.",
+    "legal": "© 2026 SpaceDraw. Todos os direitos reservados.",
+    "languageNote": "Esta página está disponível em vários idiomas. Os buscadores exibem a versão da sua região."
+  },
+  "a11y": {
+    "skipToContent": "Ir para o conteúdo",
+    "drawingCanvasAlt": "Prévia da tela de desenho do SpaceDraw",
+    "openMenu": "Abrir menu",
+    "playLink": "Jogar o jogo de desenho SpaceDraw"
+  }
+}

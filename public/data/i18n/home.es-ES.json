@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "locale": "es-ES",
+  "reviewStatus": "draft",
+  "dir": "ltr",
+  "nav": {
+    "play": "Jugar",
+    "howToPlay": "Cómo jugar",
+    "wordLists": "Listas de palabras",
+    "practice": "Practicar"
+  },
+  "hero": {
+    "eyebrow": "Juego de dibujo gratis en el navegador",
+    "ctaPrimary": "Jugar ahora",
+    "ctaSecondary": "Cómo jugar",
+    "note": "Funciona directamente en tu navegador — sin descargar ni registrarse.",
+    "intro": "SpaceDraw es un juego de dibujar y adivinar online gratis que funciona directamente en tu navegador. Dibuja la palabra secreta antes de que termine el tiempo, o adivina el boceto lo más rápido posible — sin descargar ni registrarte."
+  },
+  "trust": [
+    "Sin descargas",
+    "Sin registro",
+    "Móvil y PC",
+    "Palabras para toda la familia"
+  ],
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Elige un avatar",
+        "body": "Selecciona uno de los 10 avatares originales y un nombre. No se guarda nada en un servidor."
+      },
+      {
+        "title": "Recibe tu palabra secreta",
+        "body": "Quien dibuja recibe tres palabras para elegir según categoría y nivel de dificultad."
+      },
+      {
+        "title": "Dibuja o adivina",
+        "body": "Dibuja la palabra antes de que termine el tiempo, o escribe tus respuestas en el chat para ganar puntos de velocidad."
+      }
+    ]
+  },
+  "features": {
+    "cards": [
+      {
+        "title": "Modo práctica en solitario",
+        "body": "Calienta contra jugadores simulados sin esperar a que se llene una sala."
+      },
+      {
+        "title": "Salas privadas con código",
+        "body": "Crea una sala y comparte su código. Hoy la llenan jugadores simulados; el multijugador en vivo llegará más adelante."
+      },
+      {
+        "title": "Ajustes de ronda",
+        "body": "Ajusta el temporizador, el número de rondas y la dificultad de las palabras según tu grupo."
+      },
+      {
+        "title": "Listas de palabras por dificultad",
+        "body": "Explora listas de palabras por categoría y nivel (fácil, medio, difícil)."
+      }
+    ]
+  },
+  "practice": {
+    "cta": "Iniciar modo práctica"
+  },
+  "rooms": {
+    "cta": "Crear una sala",
+    "body": "Define un código de sala, elige tus reglas y empieza a dibujar. Las salas funcionan con jugadores simulados por ahora — el multijugador en tiempo real es una actualización futura."
+  },
+  "mobile": {
+    "body": "Un lienzo táctil responde con fluidez en móvil, celular, tablet y PC, para jugar en cualquier lugar sin instalar una app."
+  },
+  "words": {
+    "note": "Las listas de palabras de demostración están en inglés por ahora; las versiones localizadas llegarán pronto.",
+    "categories": [
+      {
+        "name": "Animales",
+        "sampleWords": [
+          "gato",
+          "elefante",
+          "mariposa"
+        ]
+      },
+      {
+        "name": "Comida",
+        "sampleWords": [
+          "pizza",
+          "helado",
+          "plátano"
+        ]
+      },
+      {
+        "name": "Objetos",
+        "sampleWords": [
+          "bicicleta",
+          "paraguas",
+          "cámara"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "note": "Respuestas rápidas a las preguntas más frecuentes."
+  },
+  "footer": {
+    "tagline": "Un juego de dibujar y adivinar gratis que funciona en tu navegador.",
+    "legal": "© 2026 SpaceDraw. Todos los derechos reservados.",
+    "languageNote": "Esta página está disponible en varios idiomas. Los motores de búsqueda muestran la versión de tu región."
+  },
+  "a11y": {
+    "skipToContent": "Saltar al contenido",
+    "drawingCanvasAlt": "Vista previa del lienzo de dibujo de SpaceDraw",
+    "openMenu": "Abrir menú",
+    "playLink": "Jugar al juego de dibujo SpaceDraw"
+  }
+}

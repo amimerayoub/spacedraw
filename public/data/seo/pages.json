@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pages": [
+    {
+      "key": "home",
+      "path": "/",
+      "status": "published",
+      "perLocale": true,
+      "title": "Home / SEO landing",
+      "description": "Primary draw-and-guess landing page. Served at / and mirrored at each locale folder (/en-us/, /fr/, ...)."
+    },
+    {
+      "key": "practice",
+      "path": "/practice/",
+      "status": "draft",
+      "perLocale": true,
+      "title": "Practice mode",
+      "description": "Solo drawing practice against simulated players. Draft — not yet in the sitemap."
+    },
+    {
+      "key": "create-room",
+      "path": "/create-room/",
+      "status": "draft",
+      "perLocale": true,
+      "title": "Create a private room",
+      "description": "Private room creation with a room code. Draft — real multiplayer is off."
+    },
+    {
+      "key": "word-lists",
+      "path": "/word-lists/",
+      "status": "draft",
+      "perLocale": true,
+      "title": "Word lists by difficulty",
+      "description": "Filterable word packs grouped by category and difficulty. Draft."
+    },
+    {
+      "key": "how-to-play",
+      "path": "/how-to-play/",
+      "status": "draft",
+      "perLocale": true,
+      "title": "How to play",
+      "description": "Step-by-step guide to drawing and guessing. Draft."
+    },
+    {
+      "key": "rules",
+      "path": "/rules/",
+      "status": "draft",
+      "perLocale": true,
+      "title": "Game rules",
+      "description": "Scoring, timers and round rules. Draft."
+    },
+    {
+      "key": "privacy",
+      "path": "/privacy/",
+      "status": "draft",
+      "perLocale": true,
+      "title": "Privacy",
+      "description": "Privacy and data policy. Draft — no accounts, local storage only."
+    }
+  ]
+}

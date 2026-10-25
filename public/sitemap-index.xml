@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://example.com/sitemap-en-us.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://example.com/sitemap-en-gb.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://example.com/sitemap-fr.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://example.com/sitemap-es.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://example.com/sitemap-de.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://example.com/sitemap-ar.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://example.com/sitemap-pt-br.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://example.com/sitemap-ru.xml</loc>
+    <lastmod>2026-10-25</lastmod>
+  </sitemap>
+</sitemapindex>

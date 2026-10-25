@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "locale": "en-US",
+  "reviewStatus": "draft",
+  "dir": "ltr",
+  "nav": {
+    "play": "Play now",
+    "howToPlay": "How to play",
+    "wordLists": "Word lists",
+    "practice": "Practice"
+  },
+  "hero": {
+    "eyebrow": "Free browser drawing game",
+    "ctaPrimary": "Play now",
+    "ctaSecondary": "How to play",
+    "note": "Runs right in your browser — no download, no sign-up.",
+    "intro": "SpaceDraw is a free draw and guess game online that runs straight in your browser. Sketch the secret word before the timer ends, or race to type the winning guess — no download and no sign-up."
+  },
+  "trust": [
+    "No download",
+    "No sign-up",
+    "Mobile & desktop",
+    "Family-friendly word packs"
+  ],
+  "howItWorks": {
+    "steps": [
+      {
+        "title": "Pick an avatar",
+        "body": "Choose one of 10 original avatars and a display name. Nothing is stored on a server."
+      },
+      {
+        "title": "Get your secret word",
+        "body": "The drawer gets three word choices from a category and difficulty level."
+      },
+      {
+        "title": "Draw or guess",
+        "body": "Sketch the word before the timer ends, or type guesses in the chat to score speed points."
+      }
+    ]
+  },
+  "features": {
+    "cards": [
+      {
+        "title": "Solo practice mode",
+        "body": "Warm up against simulated challengers without waiting for a lobby to fill."
+      },
+      {
+        "title": "Private rooms with a code",
+        "body": "Create a room and share its code. Simulated players fill the lobby today; live multiplayer is coming later."
+      },
+      {
+        "title": "Custom round settings",
+        "body": "Adjust the timer, number of rounds, and word difficulty to match your group."
+      },
+      {
+        "title": "Word packs by difficulty",
+        "body": "Browse categorized word packs across Easy, Medium and Hard levels."
+      }
+    ]
+  },
+  "practice": {
+    "cta": "Launch practice mode"
+  },
+  "rooms": {
+    "cta": "Create a room",
+    "body": "Set a room code, pick your rules, and start drawing. Rooms run with simulated players for now — real-time multiplayer is a future update."
+  },
+  "mobile": {
+    "body": "A touch-responsive canvas works smoothly on phones, tablets and desktops, so you can play anywhere without an app install."
+  },
+  "words": {
+    "note": "Demo word packs currently ship in English; localized packs are on the way.",
+    "categories": [
+      {
+        "name": "Animals",
+        "sampleWords": [
+          "cat",
+          "elephant",
+          "butterfly"
+        ]
+      },
+      {
+        "name": "Food",
+        "sampleWords": [
+          "pizza",
+          "ice cream",
+          "banana"
+        ]
+      },
+      {
+        "name": "Objects",
+        "sampleWords": [
+          "bicycle",
+          "umbrella",
+          "camera"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "note": "Quick answers to the most common questions."
+  },
+  "footer": {
+    "tagline": "A free draw-and-guess game that runs in your browser.",
+    "legal": "© 2026 SpaceDraw. All rights reserved.",
+    "languageNote": "This page is available in several languages. Search engines serve the version that matches your region."
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "drawingCanvasAlt": "SpaceDraw drawing canvas preview",
+    "openMenu": "Open menu",
+    "playLink": "Play the SpaceDraw drawing game"
+  }
+}
